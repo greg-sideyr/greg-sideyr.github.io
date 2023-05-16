@@ -1,0 +1,71 @@
+﻿header {
+    text-align: center;
+}
+body {
+    text-align: left;
+    width:85%;
+    font-size:85%;
+    color: #ffffff;
+    background-color: darkslategray
+}
+header h1 {
+    font-size: 250%
+}
+header h2 {
+    font-size: 175%
+}
+section h1 {
+    font-size: 175%
+}
+#para1 {
+    font-family:Calibri;
+}
+#para2 {
+    font-family:Arial;
+}
+#para3 {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+figure {
+    width:300px;
+    float:right;
+    margin:1em;
+    padding:1em;
+    border-left:1px solid;
+}
+figcaption {
+    font-weight: bold;
+    font-size: 125%;
+    text-align: center;
+    float: none;
+}
+#return {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+table {
+    border-collapse:collapse;
+    width:100%;
+}
+table, th, td {
+    border:1px solid;
+}
+table tfoot{
+    text-align: center;
+    font-weight: bold;
+}
+#nav a:link {
+    color:#ffffff;
+}
+#nav a:hover {
+    text-decoration: none;
+    font-size: 125%;
+    color:#ffffff;
+}
+#nav a:focus {
+    text-decoration: none;
+    font-size: 125%;
+    color:#ffffff;
+}
